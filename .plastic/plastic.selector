@@ -1,0 +1,4 @@
+repository "BombersOnline@blekniga228@cloud"
+  path "/"
+    br "/main"
+    co "/main"

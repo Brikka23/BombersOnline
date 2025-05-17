@@ -1,0 +1,13 @@
+﻿id,username,login,password,role
+1,Test1,TestLogin1,Test1,Игрок
+2,Test2,TestLogin2,Test2,Игрок
+3,TestAdmin3,TestAdminLogin3,TestAdmin3,Администратор
+4,Test4,TestLogin4,Test4,Игрок
+5,Test5,TestLogin5,Test5,Игрок
+6,test1,test1,test1,Игрок
+7,test2,test2,test2,Игрок
+8,admin1,admin1,admin1,Администратор
+15,JohnDoe,johndoe123,password123,Игрок
+16,JaneSmith,janesmith456,password456,Администратор
+17,BobJohnson,bobjohnson789,password789,Игрок
+18,AliceWhite,alicewhite101,password101,Игрок
